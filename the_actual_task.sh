@@ -48,7 +48,7 @@ cat > "$DIR/cdnjs/ajax/libs/semantic-ui/package.json" <<EOF
    "repositories": [
        {
            "type": "git",
-           "url": "https://github.com/jlukic/Semantic-UI"
+           "url": "https://github.com/Semantic-Org/Semantic-UI"
        }
    ]
 }
